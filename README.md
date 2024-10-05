@@ -31,50 +31,50 @@ The book "CSS World" is a comprehensive guide for front-end developers, covering
     - 1.3.2 流是如何影响整个 CSS 世界的
     - 1.3.3 什么是流体布局
   - 1.4 CSS 世界的开始从 IE8 开始
-  - 1.5 ``table`` 自己的世界
+  - 1.5 table 自己的世界
   - 1.6 CSS 新世界——CSS3
 - 第 2 章  需提前了解的术语和概念
   - 2.1 务必了解的 CSS 世界的专业术语
   - 2.2 了解 CSS 世界中的“未定义行为”
 - 第 3 章  流、元素与基本尺寸
   - 3.1 块级元素
-    - 3.1.1 为什么 ``list-item`` 元素会出现项目符号
-    - 3.1.2 ``display:inline-table`` 的盒子是怎样组成的
-    - 3.1.3 ``width/height`` 作用在哪个盒子上
-  - 3.2 ``width/height`` 作用的具体细节
-    - 3.2.1 深藏不露的 ``width:auto``
-    - 3.2.2 ``width`` 值作用的细节
+    - 3.1.1 为什么 list-item 元素会出现项目符号
+    - 3.1.2 display:inline-table 的盒子是怎样组成的
+    - 3.1.3 width/height 作用在哪个盒子上
+  - 3.2 width/height 作用的具体细节
+    - 3.2.1 深藏不露的 width:auto
+    - 3.2.2 width 值作用的细节
     - 3.2.3 CSS 流体布局下的宽度分离原则
-    - 3.2.4 改变 ``width/height`` 作用细节的 ``box-sizing``
-    - 3.2.5 相对简单而单纯的 ``height:auto``
-    - 3.2.6 关于 ``height:100%``
-  - 3.3 CSS ``min-width/max-width`` 和 ``min-height/max-height`` 二三事
-    - 3.3.1 为流体而生的 ``min-width/max-width``
+    - 3.2.4 改变 width/height 作用细节的 box-sizing
+    - 3.2.5 相对简单而单纯的 height:auto
+    - 3.2.6 关于 height:100%
+  - 3.3 CSS min-width/max-width 和 min-height/max-height 二三事
+    - 3.3.1 为流体而生的 min-width/max-width
     - 3.3.2 与众不同的初始值
-    - 3.3.3 超越 ``!important`` ，超越最大
+    - 3.3.3 超越 !important ，超越最大
     - 3.3.4 任意高度元素的展开收起动画技术
   - 3.4 内联元素
     - 3.4.1 哪些元素是内联元素
     - 3.4.2 内联世界深入的基础——内联盒模型
     - 3.4.3 幽灵空白结点
 - 第 4 章  盒尺寸四大家族
-  - 4.1 深入理解 ``content``
-    - 4.1.1 ``content`` 与替换元素
-    - 4.1.2 ``content`` 内容生成技术
-  - 4.2 温和的 ``padding`` 属性
-    - 4.2.1 ``padding`` 与元素的尺寸
-    - 4.2.2 ``padding`` 的百分比值
-    - 4.2.3 标签元素内置的 ``padding``
-    - 4.2.4 ``padding`` 与图形绘制
-  - 4.3 激进的 ``margin`` 属性
-    - 4.3.1 ``margin`` 与元素尺寸以及相关布局
-    - 4.3.2 ``margin`` 的百分比值
-    - 4.3.3 正确看待 CSS 世界里的 ``margin`` 合并
-    - 4.3.4 深入理解 CSS 中的 ``margin:auto``
-    - 4.3.5 ``margin`` 无效情形解析
-  - 4.4 功勋卓越的 ``border`` 属性
-    - 4.4.1 为什么 ``border-width`` 不支持百分比值
-    - 4.4.2 了解各种 ``border-style`` 类型
+  - 4.1 深入理解 content
+    - 4.1.1 content 与替换元素
+    - 4.1.2 content 内容生成技术
+  - 4.2 温和的 padding 属性
+    - 4.2.1 padding 与元素的尺寸
+    - 4.2.2 padding 的百分比值
+    - 4.2.3 标签元素内置的 padding
+    - 4.2.4 padding 与图形绘制
+  - 4.3 激进的 margin 属性
+    - 4.3.1 margin 与元素尺寸以及相关布局
+    - 4.3.2 margin 的百分比值
+    - 4.3.3 正确看待 CSS 世界里的 margin 合并
+    - 4.3.4 深入理解 CSS 中的 margin:auto
+    - 4.3.5 margin 无效情形解析
+  - 4.4 功勋卓越的 border 属性
+    - 4.4.1 为什么 border-width 不支持百分比值
+    - 4.4.2 了解各种 border-style 类型
     - 4.4.3 border-color和color
     - 4.4.4 border与透明边框技巧
     - 4.4.5 border与图形构建
